@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oleo+Script&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 58px;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+
+}
+
+nav ul li{
+    list-style: none;
+
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    height: 12vh;
+    background-color: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
+ 
+}
